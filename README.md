@@ -6,6 +6,10 @@
 * Long-Term Accumulation of Weak Effects
 * Time Lags
 
+## Biological Foundations
+
+* Experimental Evolution
+
 ## Reading List (Actively Updated)
 
 * Faldor, M., Lange, R.T. and Cully, A., 2025. Discovering quality-diversity algorithms via meta-black-box optimization. arXiv preprint arXiv:2502.02190.
