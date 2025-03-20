@@ -1,7 +1,8 @@
-# CEC2025-Tutorials-MetaEvolution
+# An IEEE CEC-2025 Tutorial About MetaEvolution
 
 ## 
 
+* Interactions between Macro-Evolution and Micro-Evolution
 * Long-Term Accumulation of Weak Effects
 * Time Lags
 
