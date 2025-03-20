@@ -2,7 +2,7 @@
 
 ## 
 
-* Accumulation of Weak Effects
+* Long-Term Accumulation of Weak Effects
 * Time Lags
 
 ## Reading List (Actively Updated)
