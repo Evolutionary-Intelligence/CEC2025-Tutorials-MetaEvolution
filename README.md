@@ -15,4 +15,5 @@
 * Faldor, M., Lange, R.T. and Cully, A., 2025. Discovering quality-diversity algorithms via meta-black-box optimization. arXiv preprint arXiv:2502.02190.
 * Gu, E., Alford, S., Costilla-Reyes, O., Cranmer, M. and Ellis, K., 2025. InceptionSR: Recursive symbolic regression for equation synthesis.
 * Cranmer, M., 2023. Interpretable machine learning for science with PySR and SymbolicRegression.jl. arXiv preprint arXiv:2305.01582.
+* Spettel, P., Beyer, H.G. and Hellwig, M., 2019, August. Steady state analysis of a multi-recombinative meta-ES on a conically constrained problem with comparison to σSA and CSA. In Proceedings of ACM/SIGEVO Conference on Foundations of Genetic Algorithms (pp. 43-57).
 * Lira, W., Fu, C. W. and Zhang, H., 2018. Fabricable eulerian wires for 3D shape abstraction. ACM Transactions on Graphics, 37(6), 1-13.
